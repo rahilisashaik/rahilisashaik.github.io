@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,28 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education 
+### University of California, Berkeley, 2025
+* BS Electrical Engineering & Computer Science 
+* BS Chemical Engineering
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work experience
+### BlackRock, Summer 2024
+  * Software Engineer Intern
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Panasonic, Summer 2023
+  * Software Engineer Intern
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Texas Instruments, 2023-2024
+  * Contract Machine Learning Engineer
+
+### NASA, Summer 2022
+  * Software Automation Engineering Intern
   
 Skills
 ======
