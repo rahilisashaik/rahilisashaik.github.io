@@ -21,21 +21,22 @@ repository               : "rahilisashaik/rahilisashaik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shaik_rahil_security.png"
   name             : "Rahil Shaik"
   pronouns         : "he/him"
-  bio              : "Rising senior at UC Berkeley studying Engineering & CS"
+  bio              : "Rising senior at UC Berkeley studying Engineering & CS ♨"
   location         : "San Francisco Bay Area"
   employer         : "ex-BlackRock, Panasonic, NASA"
   uri              : "https://rahilisashaik.github.io/"
   email            : "rahilisashaik@berkeley.edu" 
+  github           : "https://github.com/rahilisashaik/"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rahilisashaik"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -191,15 +192,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -234,10 +235,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
