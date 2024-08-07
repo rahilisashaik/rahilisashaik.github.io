@@ -10,7 +10,7 @@ main:
   #   url: /portfolio/
 
   - title: "About"
-    url: //
+    url: /
 
   - title: "Resume"
     url: /resume/
@@ -26,6 +26,8 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+
     
 
     
