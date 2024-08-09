@@ -11,49 +11,38 @@ redirect_from:
 
 ## Education 
 ### University of California, Berkeley, 2025
-* BS Electrical Engineering & Computer Science 
-* BS Chemical Engineering
+* _BS Electrical Engineering & Computer Science_ 
+* _BS Chemical Engineering_
 
 ## Work experience
-### BlackRock, Summer 2024
-  * Software Engineer Intern
 
-### Panasonic, Summer 2023
-  * Software Engineer Intern
+<figure style="display: inline-block; margin-right: 10px; text-align: center; width: 350px;">
+  <img src="../images/blackrock.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">BlackRock - Summer 2024, SWE Intern</figcaption>
+</figure>
+<figure style="display: inline-block; text-align: center; width: 350px;">
+  <img src="../images/panasonic.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Panasonic - Summer 2023, SWE Intern</figcaption>
+</figure>
+<figure style="display: inline-block; margin-right: 10px; text-align: center; width: 350px;">
+  <img src="../images/ti.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Texas Instruments - 2023-24, Contract MLE Intern</figcaption>
+</figure>
+<figure style="display: inline-block; text-align: center; width: 350px;">
+  <img src="../images/nasa.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">NASA - Summer 2022, Software Automation Intern</figcaption>
+</figure>
 
-### Texas Instruments, 2023-2024
-  * Contract Machine Learning Engineer
+  
+## Skills
+* **Languages**: Java, Python, C/C++, Typescript
+* **Frameworks**: JUnit, Spring, ReactJS, Django, ROS2, REST API, Mockito
+* **Developer Tools**: Git, Azure DevOps, NoSQL, AWS, Google Cloud, SQL
+* **Libraries**: pandas, NumPy
+  
+## Leadership
+* **Voyager Consulting** - Internal Vice President
+* **Cal Lacrosse** - Goalie
 
-### NASA, Summer 2022
-  * Software Automation Engineering Intern
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Resume](../images/Resume.png "My actual resume if you would like to see more of my past experiences and qualifications")

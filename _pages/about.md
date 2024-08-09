@@ -1,13 +1,38 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, my name is Rahil Shaik and this is my personal website! I am currently a student at UC Berkeley studying chemical engineering and electrical engineering & computer science (EECS). I am interested in striking the intersection between computer science and clean tech. Particularly, using software engineering to enhance solutions in furthering sustainability.
-
 ## TLDR
+Hello 👋 my name is Rahil Shaik and this is my personal website! I am currently a student at UC Berkeley studying chemical engineering and electrical engineering & computer science (EECS). I am interested in striking the intersection between computer science and clean tech. 
+
+
+## A Little Longer; Didn't Read
+I grew up in Louisville, KY 🐎 attending DuPont Manual High School. I was interested in pursuing research in sustainability which led me to study chemical engineering at UC Berkeley. Since then, I have learned more about the power of computing, and pursued an additional degree in electrical engineering & computer science. As a result, I have pursued research in computer vision for ensuriung safe battery management systems (BMS) and battery algorithms in industry 🔋. It is now my goal to tackle clean tech, particularly, using software engineering to enhance solutions in furthering sustainability.
+
+In my free time, I enjoy playing ping pong, basketball, NYT word games, lacrosse, PokemonGo, and spending time with my cat Buddy 🐱! 
+
+Here's me doing some fun stuff:
+
+<figure style="display: inline-block; margin-right: 10px; text-align: center; width: 350px;">
+  <img src="../images/500x300.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Caption for the first image</figcaption>
+</figure>
+<figure style="display: inline-block; text-align: center; width: 350px;">
+  <img src="../images/500x300.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Caption for the second image</figcaption>
+</figure>
+<figure style="display: inline-block; margin-right: 10px; text-align: center; width: 350px;">
+  <img src="../images/500x300.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Caption for the first image</figcaption>
+</figure>
+<figure style="display: inline-block; text-align: center; width: 350px;">
+  <img src="../images/500x300.png" alt="Company Logo" width="350" style="border: 1px solid #ddd; padding: 5px;"/>
+  <figcaption style="font-size: 14px; color: #666;">Caption for the second image</figcaption>
+</figure>
+
 

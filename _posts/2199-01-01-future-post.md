@@ -1,11 +1,15 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'My First Blog Entry'
+date: 2024-08-09
+permalink: /posts/2024/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - summer
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Welcome to my personal website! I don't currently have anything so important that it necessitates a blog post. I'm not sure I ever will, but if somehow I do, you'll see it here. I think I have too much time on my hands before school starts so this is how I'm spending it 🙉
+
+For my own sake and maybe yours, here's a link to all of the emojis you can include in markdown:
+https://gist.github.com/rxaviers/7360908
+
+
+

@@ -24,7 +24,7 @@ author:
   avatar           : "shaik_rahil_security.png"
   name             : "Rahil Shaik"
   pronouns         : "he/him"
-  bio              : "Rising senior at UC Berkeley studying engineering & CS ✎"
+  bio              : "Rising senior at UC Berkeley studying engineering & CS"
   location         : "San Francisco Bay Area"
   employer         : "ex-BlackRock, Panasonic, NASA"
   uri              : "https://rahilisashaik.github.io/"
@@ -49,7 +49,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : rahilshaik
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -113,7 +113,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : rahilisashaik
 facebook:
   username               :
   app_id                 :
