@@ -24,7 +24,7 @@ author:
   avatar           : "shaik_rahil_security.png"
   name             : "Rahil Shaik"
   pronouns         : "he/him"
-  bio              : "Rising senior at UC Berkeley studying Engineering & CS"
+  bio              : "Rising senior at UC Berkeley studying engineering & CS"
   location         : "San Francisco Bay Area"
   employer         : "ex-BlackRock, Panasonic, NASA"
   uri              : "https://rahilisashaik.github.io/"
@@ -35,7 +35,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rahilisashaik"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -48,7 +48,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : rahilshaik
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -112,7 +112,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : rahilisashaik
 facebook:
   username               :
   app_id                 :
