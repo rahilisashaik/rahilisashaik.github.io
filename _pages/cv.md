@@ -33,7 +33,6 @@ redirect_from:
   <figcaption style="font-size: 14px; color: #666;">NASA - Summer 2022, Software Automation Intern</figcaption>
 </figure>
 
-  
 ## Skills
 * **Languages**: Java, Python, C/C++, Typescript
 * **Frameworks**: JUnit, Spring, ReactJS, Django, ROS2, REST API, Mockito
