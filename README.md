@@ -1,3 +1,3 @@
 # My Personal Website
 
-You can access my website at https://rahilisashaik.github.io
+Quick look at my education, background, experiences, and hobbies at https://rahilisashaik.github.io
