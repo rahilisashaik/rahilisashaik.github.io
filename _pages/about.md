@@ -12,7 +12,7 @@ Hello 👋 my name is Rahil Shaik and this is my personal website! I am currentl
 
 
 ## A Little Longer; Didn't Read
-I grew up in Louisville, KY 🐎 attending DuPont Manual High School. I was interested in pursuing research in sustainability which led me to study chemical engineering at UC Berkeley. Since then, I have learned more about the power of computing, and pursued an additional degree in electrical engineering & computer science. As a result, I have pursued research in computer vision for ensurung safe battery management systems (BMS) and battery algorithms in industry 🔋. It is now my goal to tackle clean tech, particularly, using software engineering to enhance solutions in furthering sustainability.
+I grew up in Louisville, KY 🐎 attending DuPont Manual High School. I was interested in pursuing research in sustainability which led me to study chemical engineering at UC Berkeley. Since then, I have learned more about the power of computing, and pursued an additional degree in electrical engineering & computer science. As a result, I have pursued research in computer vision for ensuring safe battery management systems (BMS) and battery algorithms in industry 🔋. It is now my goal to tackle clean tech, particularly, using software engineering to enhance solutions in furthering sustainability.
 
 In my free time, I enjoy playing ping pong, basketball, NYT word games, lacrosse, PokemonGo, hiking, and spending time with my cat Buddy 🐱! this website is only a brief look into my life so feel free to reach out through my linked socials or email on the left. You can see what I'm working on through my github and more professional updates via my LinkedIn.
 
