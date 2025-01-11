@@ -44,4 +44,4 @@ redirect_from:
 * **Cal Lacrosse** - Goalie
 
 
-[Resume](../images/Resume.png "My actual resume if you would like to see more of my past experiences and qualifications")
+[Resume](../images/Rahil_Shaik_RL.png "My actual resume if you would like to see more of my past experiences and qualifications")
